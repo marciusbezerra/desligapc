@@ -1,0 +1,9 @@
+D:\Servicos\Para o CD RW\Prog\C# .NET\DesligaPC\DesligaPC\bin\Debug\DesligaPC.exe
+D:\Servicos\Para o CD RW\Prog\C# .NET\DesligaPC\DesligaPC\bin\Debug\DesligaPC.pdb
+D:\Servicos\Para o CD RW\Prog\C# .NET\DesligaPC\DesligaPC\obj\Debug\ResolveAssemblyReference.cache
+D:\Servicos\Para o CD RW\Prog\C# .NET\DesligaPC\DesligaPC\obj\Debug\DesligaPC.frmMain.resources
+D:\Servicos\Para o CD RW\Prog\C# .NET\DesligaPC\DesligaPC\obj\Debug\DesligaPC.Properties.Resources.resources
+D:\Servicos\Para o CD RW\Prog\C# .NET\DesligaPC\DesligaPC\obj\Debug\DesligaPC.csproj.GenerateResource.Cache
+D:\Servicos\Para o CD RW\Prog\C# .NET\DesligaPC\DesligaPC\obj\Debug\DesligaPC.exe
+D:\Servicos\Para o CD RW\Prog\C# .NET\DesligaPC\DesligaPC\obj\Debug\DesligaPC.pdb
+D:\Servicos\Para o CD RW\Prog\C# .NET\DesligaPC\DesligaPC\bin\Debug\DesligaPC.exe.config
